@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOOLS/Lit_review/zotero/zotero.md",
+            "file": "TOOLS/Lit_review/ICON-Into to special collection.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Lit_review/zotero/zotero.md",
+                "file": "TOOLS/Lit_review/ICON-Into to special collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Lit_review/zotero/zotero.md"
+                "file": "TOOLS/Lit_review/ICON-Into to special collection.md"
               }
             }
           }
@@ -113,17 +113,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ded4f73da43d0f32",
+  "active": "7d6cd837d17280ff",
   "lastOpenFiles": [
+    "TOOLS/Lit_review/Open Watershed Science by Design.md",
+    "TOOLS/Lit_review/zotero/zotero.md",
+    "TOOLS/Lit_review/Lit_review.md",
     "PLATFORMS/Org_platforms/Advisory Commitee/Advisory Commitee.md",
     "PLATFORMS/Org_platforms/Board of Directors/Board of Directors.md",
     "PLATFORMS/Org_platforms/Org_platforms.md",
     "PRODUCTS/PRODUCTS.md",
     "PRODUCTS/ICON-Worksheet/ICON-Worksheet.md",
-    "TOOLS/Lit_review/Lit_review.md",
     "TOOLS/TOOLS.md",
-    "PEOPLE/PEOPLE.md",
-    "TOOLS/Workflows/Updating R Without lossing your packages.md",
-    "TOOLS/Workflows/Quarto Websites.md"
+    "PEOPLE/PEOPLE.md"
   ]
 }
