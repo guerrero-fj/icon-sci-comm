@@ -6,6 +6,8 @@ The relevance of ICON principles and how to best use them across the spectrum of
 
 [2020_Jan_22](https://docs.google.com/presentation/d/1A7ZMnZ9DtjMu8n26NdwW3rDPKcBsa50_IW9rpXGhLvo/edit#slide=id.g7c97ae0544_0_150) fragmented scientific advances that make inefficient use of available resources and that fail to discover key principles that can enable humans to predict, control, and mitigate towards beneficial outcomes. In addition, missed opportunities to integrate science across sectors to enable otherwise impossible discovery.
 
+fragmented scientific advances make inefficient use of available resources and that fail to discover key principles. These principles can enable humans to predict, control, and mitigate towards beneficial outcomes.
+
 * The complexity of integration across disciplines can make it challenging to achieve
 * Data and findings are often collected in a way that makes difficult to compare them across space and time
 * Open access in data repositories and research publications is one component...also, "dark data": data collected before online and digitized data collecton tools, and lack of centralized and organized catalogs ([@Belem2022]). "Opennes measured in publications does not translate to opennes for the average citizen in the world"
