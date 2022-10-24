@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TOOLS/Assets/Text/I-worksheet (continuous script).md",
+            "file": "TOOLS/Assets/Text/ICON Studio Presentation (Script).md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TOOLS/Assets/Text/I-worksheet (continuous script).md",
+                "file": "TOOLS/Assets/Text/ICON Studio Presentation (Script).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TOOLS/Assets/Text/I-worksheet (continuous script).md"
+                "file": "TOOLS/Assets/Text/ICON Studio Presentation (Script).md"
               }
             }
           }
@@ -115,15 +115,15 @@
   },
   "active": "d28612b161ef01a9",
   "lastOpenFiles": [
-    "TASKS/TASKS.md",
-    "TOOLS/Assets/Text/I-worksheet (continuous script).md",
+    "TOOLS/Assets/Figs/presentations/ICON_Studio_MURAL.png",
+    "TOOLS/Assets/Figs/presentations/ICON Studio I (view only).png",
+    "TOOLS/Assets/Figs/Figs.md",
     "TOOLS/Assets/Text/ICON Studio Presentation (Script).md",
+    "TOOLS/Assets/Text/I-worksheet (continuous script).md",
+    "TASKS/TASKS.md",
     "TOOLS/Assets/Text/Text.md",
     "TOOLS/Lit_review/ICON-Into to special collection.md",
     "TOOLS/Lit_review/Open Watershed Science by Design.md",
-    "TOOLS/Lit_review/zotero/zotero.md",
-    "TOOLS/Lit_review/Lit_review.md",
-    "PLATFORMS/Org_platforms/Advisory Commitee/Advisory Commitee.md",
-    "PLATFORMS/Org_platforms/Board of Directors/Board of Directors.md"
+    "TOOLS/Lit_review/zotero/zotero.md"
   ]
 }
